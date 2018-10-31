@@ -15,9 +15,9 @@ public class APPRunner {
 
 		JSONParser jp = new JSONParser(vatEndPoint);
 		RatesInfo ri = new RatesInfo(jp.loadJson());
-		System.out.println("---------------------------Top Highest EU Standards--------------------------");
-		ri.PrintEUStandards(ri.orderByAsc());// Printing the Top 3 highest Standards
 		System.out.println("---------------------------Top Lowest EU Standards--------------------------");
+		ri.PrintEUStandards(ri.orderByAsc());// Printing the Top 3 highest Standards
+		System.out.println("---------------------------Top Highest EU Standards--------------------------");
 		ri.PrintEUStandards(ri.OrderByDesc());// Printing the Top 3 lowest Standards
 	}
 
