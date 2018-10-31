@@ -1,4 +1,4 @@
-package com.barclays.services.utilities;
+package com.assignment.services.utilities;
 
 import java.util.Comparator;
 import java.util.Map;

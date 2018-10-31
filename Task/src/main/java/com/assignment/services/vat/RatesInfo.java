@@ -1,4 +1,4 @@
-package com.barclays.services.vat;
+package com.assignment.services.vat;
 
 import java.util.Collections;
 import java.util.Iterator;

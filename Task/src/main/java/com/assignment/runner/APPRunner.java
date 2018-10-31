@@ -1,10 +1,11 @@
-package com.barclays.runner;
+package com.assignment.runner;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
 
-import com.barclays.services.utilities.JSONParser;
-import com.barclays.services.vat.RatesInfo;
+import com.assignment.services.utilities.JSONParser;
+import com.assignment.services.vat.RatesInfo;
+
 
 public class APPRunner {
 	

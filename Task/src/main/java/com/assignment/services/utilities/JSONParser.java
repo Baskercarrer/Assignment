@@ -1,4 +1,4 @@
-package com.barclays.services.utilities;
+package com.assignment.services.utilities;
 
 import java.io.IOException;
 import java.io.InputStream;

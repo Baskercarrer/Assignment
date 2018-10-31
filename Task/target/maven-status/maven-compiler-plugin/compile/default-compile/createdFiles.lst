@@ -1,0 +1,4 @@
+com\barclays\runner\APPRunner.class
+com\barclays\services\utilities\ValueComparator.class
+com\barclays\services\vat\RatesInfo.class
+com\barclays\services\utilities\JSONParser.class
